@@ -26,19 +26,19 @@ namespace proekt_05._04._2020
             }
             if (Form3.ochki2 > Form3.ochki1 && Form3.ochki2 > Form3.ochki3 && Form3.ochki2 > Form3.ochki4 && Form3.ochki2 > Form3.ochki5)
             {
-                label2.Text = Form3.name1;
+                label2.Text = Form3.name2;
             }
             if (Form3.ochki3 > Form3.ochki1 && Form3.ochki3 > Form3.ochki2 && Form3.ochki2 > Form3.ochki4 && Form3.ochki3 > Form3.ochki5)
             {
-                label2.Text = Form3.name1;
+                label2.Text = Form3.name3;
             }
             if (Form3.ochki4 > Form3.ochki1 && Form3.ochki4 > Form3.ochki2 && Form3.ochki4 > Form3.ochki3 && Form3.ochki4 > Form3.ochki5)
             {
-                label2.Text = Form3.name1;
+                label2.Text = Form3.name4;
             }
             if (Form3.ochki5 > Form3.ochki1 && Form3.ochki5 > Form3.ochki2 && Form3.ochki5 > Form3.ochki3 && Form3.ochki5 > Form3.ochki4)
             {
-                label2.Text = Form3.name1;
+                label2.Text = Form3.name5;
             }
         }
 
